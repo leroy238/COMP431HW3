@@ -1,3 +1,5 @@
+#Justin Smith, COMP 431
+#I pledge the honor code.
 import sys
 
 def isSpace(character):
